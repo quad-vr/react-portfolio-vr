@@ -11,49 +11,49 @@ const introdata = {
         second: "I code cool websites",
         third: "I develop mobile apps",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+    description: "a versatile engineer specializing in automation, cloud solutions, and physical design, with a passion for building innovative and efficient systems.",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
 const dataabout = {
-    title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    title: "About me",
+    aboutme: "I am Vishwas Somashekara Reddy, an accomplished engineer with expertise in automation, cloud technologies, and physical design. With a Master’s degree in Electrical and Computer Engineering from Oregon State University, I bring a strong foundation in hardware and software integration. My professional experience spans roles at Microsoft, Oregon State University, and ARF Design, where I excelled in CI/CD pipelines, cloud migrations, backend design, and system optimizations. Proficient in tools like Jenkins, Kubernetes, and Terraform, and programming languages such as Python, C++, and Tcl, I specialize in crafting efficient and scalable solutions. My portfolio reflects a blend of innovative projects, technical publications, and hands-on problem-solving in high-impact environments.",
 };
 const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
-        date: "2020",
+        jobtitle: "Software Automation Engineer",
+        where: "Microsoft",
+        date: "From August 2023",
     },
     {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
+        jobtitle: "Information Technology Consultant",
+        where: "Oregon State University",
+        date: "September 2021 - June 2023",
     },
     {
-        jobtitle: "Designer of week",
-        where: "ALquds",
-        date: "2019",
+        jobtitle: "Physical Design Engineer",
+        where: "ARF Design PVT LTD",
+        date: "January 2020 - August 2021",
     },
 ];
 
 const skills = [{
         name: "Python",
-        value: 90,
+        value: 75,
     },
     {
-        name: "Djano",
-        value: 85,
-    },
-    {
-        name: "Javascript",
+        name: "C/C++",
         value: 80,
     },
     {
-        name: "React",
+        name: "Javascript",
         value: 60,
     },
     {
-        name: "Jquery",
+        name: "React",
+        value: 70,
+    },
+    {
+        name: "Tcl",
         value: 85,
     },
 ];
