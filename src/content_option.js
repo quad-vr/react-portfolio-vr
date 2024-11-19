@@ -1,13 +1,13 @@
-const logotext = "JOHN";
+const logotext = "VR";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Vishwas Somashekara Reddy",
+    description: "An innovative engineer specializing in automation, physical design, and verification, with expertise in EDA tools, scripting, and cloud technologies, creating optimized and scalable solutions.",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "I’m Vishwas Somashekara Reddy",
     animated: {
-        first: "I love coding",
+        first: "I love Automation",
         second: "I code cool websites",
         third: "I develop mobile apps",
     },
