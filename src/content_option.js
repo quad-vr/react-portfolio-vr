@@ -136,20 +136,20 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
-    // creat an emailjs.com account 
-    // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-    YOUR_SERVICE_ID: "service_id",
-    YOUR_TEMPLATE_ID: "template_id",
-    YOUR_USER_ID: "user_id",
+    YOUR_EMAIL: "vsr.8332@gmail.com",
+    YOUR_FONE: "(209)637-8338",
+    description: "Feel free to reach out to discuss how my skills and experience can contribute to your team's success—I'm eager to explore new opportunities and challenges! ",
+    // // creat an emailjs.com account 
+    // // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
+    // YOUR_SERVICE_ID: "service_id",
+    // YOUR_TEMPLATE_ID: "template_id",
+    // YOUR_USER_ID: "user_id",
 };
 
 const socialprofils = {
     github: "https://github.com",
     facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
+    linkedin: "www.linkedin.com/in/vsreddy03",
     twitter: "https://twitter.com",
 };
 export {
